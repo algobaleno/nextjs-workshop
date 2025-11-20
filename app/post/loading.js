@@ -5,11 +5,3 @@ export default function Loading() {
         </>
     );
 }
-
-export function LB() {
-    return (
-        <>
-            <div>mike</div>
-        </>
-    );
-}
